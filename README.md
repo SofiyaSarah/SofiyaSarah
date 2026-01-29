@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=8627F7&width=435&lines=%F0%9F%91%8B+Hi+there%2C+I'm+Divakar!;Backend-focused+Full-Stack+Developer;ML+%26+LLM+Enthusiast;Cloud+%26+DevOps+Practitioner)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=8627F7&width=435&lines=%F0%9F%91%8B+Hi+there%2C+I'm+Sofiya!;Backend-focused+Full-Stack+Developer;ML+%26+LLM+Enthusiast;Cloud+%26+DevOps+Practitioner)](https://git.io/typing-svg)
 
 ---
 
@@ -17,7 +17,7 @@ Backend-focused **ML-Engineer** with expertise in **building production-ready ML
 -🚀 Enjoy building ML-powered web apps, optimizing pipelines, and turning models into usable systems
 -🎶 Outside tech, I enjoy **music, creative problem-solving, and competitive discussions**
 
-📫 Reach me on [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/divakar-singh/)  
+📫 Reach me on [![LinkedIn](https://www.linkedin.com/in/sofiya-sarah-8331a32a1/)](https://www.linkedin.com/in/sofiya-sarah-8331a32a1/)  
 
 ---
 
