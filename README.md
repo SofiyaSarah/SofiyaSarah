@@ -3,21 +3,24 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=8627F7&width=435&lines=%F0%9F%91%8B+Hi+there%2C+I'm+Sofiya!;Backend-focused+Full-Stack+Developer;ML+%26+LLM+Enthusiast;Cloud+%26+DevOps+Practitioner)](https://git.io/typing-svg)
 
 ---
+# 🚀 About Me  
 
-## 🚀 About Me  
-Backend-focused **ML-Engineer** with expertise in **building production-ready ML systems and computer-vision–driven applications.**.  
+Backend-focused **ML Engineer** with expertise in **building production-ready ML systems** and **computer-vision–driven applications**.
 
-- Strong foundation in **Python**
--🤖 Experienced in **Machine Learning & Deep Learning** using **PyTorch**, **TensorFlow**, **scikit-learn**
--👁️ Specialized in **Computer Vision** — **Object Detection (YOLO), Pose Estimation, OCR & Video Analysis**
--📊 Skilled in **Data Analytics & Visualization** using **Pandas, NumPy, Matplotlib**
--🧠 Worked on vision + data–driven models to extract performance insights from real-world video data
--🛠️ Comfortable with Git, Jupyter, Streamlit and rapid ML prototyping
--🎓 Background in**AI/ML Engineering (BE)** and currently pursuing **MSc in Data Analytics**
--🚀 Enjoy building ML-powered web apps, optimizing pipelines, and turning models into usable systems
--🎶 Outside tech, I enjoy **music, creative problem-solving, and competitive discussions**
+- 💻 Strong foundation in **Python**
+- 🤖 Experienced in **Machine Learning & Deep Learning** using **PyTorch**, **TensorFlow**, **scikit-learn**
+- 👁️ Specialized in **Computer Vision** — **Object Detection (YOLO)**, **Pose Estimation**, **OCR**, **Video Analysis**
+- 📊 Skilled in **Data Analytics & Visualization** using **Pandas**, **NumPy**, **Matplotlib**
+- 🧠 Worked on **vision + data–driven models** to extract **performance insights** from **real-world video data**
+- 🛠️ Comfortable with **Git**, **Jupyter**, **Streamlit**, and **rapid ML prototyping**
+- 🎓 Background in **AI/ML Engineering (BE)** and currently pursuing **MSc in Data Analytics**
+- 🚀 Enjoy building **ML-powered web apps**, **optimizing pipelines**, and **deployable systems**
+- 🎶 Outside tech, I enjoy **music** and exploring creative ideas
 
-📫 Reach me on [![LinkedIn](https://www.linkedin.com/in/sofiya-sarah-8331a32a1/)](https://www.linkedin.com/in/sofiya-sarah-8331a32a1/)  
+
+📫 Reach me on  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sofiya%20Sarah-blue?logo=linkedin)](https://www.linkedin.com/in/sofiya-sarah-8331a32a1/)
+
 
 ---
 
