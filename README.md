@@ -19,8 +19,9 @@ Backend-focused **ML Engineer** with expertise in **building production-ready ML
 - 🎶 Outside tech, I enjoy **music** and exploring creative ideas
 
 
-📫 Reach me on  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sofiya%20Sarah-blue?logo=linkedin)](https://www.linkedin.com/in/sofiya-sarah-8331a32a1/)
+
+📫 Connect with me on 👉 [LinkedIn](https://www.linkedin.com/in/sofiya-sarah-8331a32a1/)
+
 
 
 ---
